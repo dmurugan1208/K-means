@@ -1,1 +1,1 @@
-# K-means
+# K-means for image colour quantization
